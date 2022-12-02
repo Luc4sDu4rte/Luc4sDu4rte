@@ -12,7 +12,7 @@
 </p>
 
 <div align="center">  
-<a href="www.instagram.com/duarte_x0/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+<a href="[www.instagram.com/duarte_x0/](https://www.instagram.com/duarte_x0/)" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 </div>
 
 ### Tools:
